@@ -27,13 +27,6 @@ https://github.com/Ajay-korikana/Deep-Dive-Analysis-Interactive-Dashboarding.git
 ### 🔹 Task 4 — Storytelling & Statistics
 https://github.com/Ajay-korikana/DATA-STORYTELLING-STATISTICAL-VALIDATION-2025-.git
 
----
-
-## 📊 Final Presentation
-👉 Add PPT link here
-
----
-
 ## 🛠 Tools Used
 Python | SQL | Power BI | Statistics
 
